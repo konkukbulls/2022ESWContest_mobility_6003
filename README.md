@@ -1,8 +1,8 @@
-# 프로젝트 이름
+# BCCS (Built-in Cam Cloud System)
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  ![ui_cm_sn_kr](https://user-images.githubusercontent.com/110047222/192771261-6863f31a-47a6-4795-bd55-77cb447c2a28.png)
   <br>
 </p>
 
