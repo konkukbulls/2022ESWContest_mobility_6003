@@ -4,9 +4,13 @@
   ![ui_cm_sn_kr](https://user-images.githubusercontent.com/110047222/192771261-6863f31a-47a6-4795-bd55-77cb447c2a28.png)
 
 
-목차
+## 목차
+1. 프로젝트 소개
+  i 기술스택
+3. 구현기능
+4. 사용방법
 
-## 프로젝트 소개
+## 1.프로젝트 소개
 
 <p align="justify">
 프로젝트 개요/동기
@@ -18,7 +22,7 @@ GIF Images
 
 <br>
 
-## 기술 스택
+### 1-1 기술 스택
 
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
