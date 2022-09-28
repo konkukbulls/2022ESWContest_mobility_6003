@@ -1,8 +1,7 @@
 # BCCS (Built-in Cam Cloud System)
 
 <p align="center">
-  <br>
- ![ui_cm_sn_kr](https://user-images.githubusercontent.com/110047222/192771261-6863f31a-47a6-4795-bd55-77cb447c2a28.png)
+  <br>![ui_cm_sn_kr](https://user-images.githubusercontent.com/110047222/192771261-6863f31a-47a6-4795-bd55-77cb447c2a28.png)
   <br>
 </p>
 
