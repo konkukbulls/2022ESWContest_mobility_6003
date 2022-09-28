@@ -1,6 +1,11 @@
 
 # BCCS(Built-in Cam Cloud System)
 
+
+![ui_cm_sn_kr](https://user-images.githubusercontent.com/110047222/192769109-c6e813d8-a66d-47ac-aeae-73838c1e9814.png)
+
+
+
 ## BCCS란?
 
 * 본 시스템은 차량에서 발생한 사고 및 위험 상황을 클라우드에 자동 업로드 함으로써 자료의 유실을 방지하고, 사용자가 해당 정보를 편리하게 사용할 수 있도록 플랫폼을 제공하는 것이 목적이다.
