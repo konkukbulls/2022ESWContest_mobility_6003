@@ -1,7 +1,7 @@
 # BCCS (Built-in Cam Cloud System)
 
+![KakaoTalk_20221012_004141897](https://user-images.githubusercontent.com/110047222/195141843-af22560d-8526-42bb-b4e5-804fb8b508ff.png)
 
-![전체수정1](https://user-images.githubusercontent.com/110047222/195035166-296d4861-664d-473b-9d84-d864c8af63e7.png)
 
 
 ## 목차
