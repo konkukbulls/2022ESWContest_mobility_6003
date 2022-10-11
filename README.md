@@ -58,7 +58,7 @@
 ![KakaoTalk_20221011_220812268_01](https://user-images.githubusercontent.com/110047222/195100649-3bd5a63f-ab1e-4b1d-b700-9f65749a5908.png)
 ### 3) 알림 화면
 ![KakaoTalk_20221011_220812268_02](https://user-images.githubusercontent.com/110047222/195100697-5270141b-9249-4b20-a74f-edc550b6d264.png)
-### 4) 
+### 4) 설정 화면
 ![KakaoTalk_20221011_220812268_03](https://user-images.githubusercontent.com/110047222/195100763-8d3e6a1c-d58f-471c-8754-16d456cb416d.png)
 
 
