@@ -7,7 +7,7 @@
 ## 목차
 1. 작품 소개
 2. 작품 시연
-3. 작품 사용방법
+3. 어플리케이션 UI
 4. Hardware 구성
 5. Software 구성
 6. 기술스택
@@ -53,7 +53,7 @@
 <img width="1512" alt="KakaoTalk_20221012_002323731" src="https://user-images.githubusercontent.com/110047222/195143863-ab873d9c-12f3-4285-afab-2d8996918bd3.png">
 
 
-## 3. 작품 사용방법
+## 3. 어플리케이션 UI
 ### 1) 홈 화면
 ![KakaoTalk_20221012_010750291](https://user-images.githubusercontent.com/110047222/195143823-d3eb322b-5b21-40cc-bf18-dd5ec668e2dd.png)
 
