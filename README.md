@@ -9,7 +9,7 @@
 2. 작품 시연
 3. 작품 사용방법
 4. Hardware 구성
-5. Software 구
+5. Software 구성
 
 ## 1.작품 소개
 
