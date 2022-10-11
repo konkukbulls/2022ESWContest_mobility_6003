@@ -49,10 +49,12 @@
 
 ### 2) 주차상황
 
+<img width="1512" alt="KakaoTalk_20221012_002323731" src="https://user-images.githubusercontent.com/110047222/195143863-ab873d9c-12f3-4285-afab-2d8996918bd3.png">
+
 
 ## 3. 작품 사용방법
 ### 1) 홈 화면
-![KakaoTalk_20221012_002003810](https://user-images.githubusercontent.com/110047222/195132575-61a2138c-b390-49a5-8442-2e3e20f660ce.png)
+![KakaoTalk_20221012_010750291](https://user-images.githubusercontent.com/110047222/195143823-d3eb322b-5b21-40cc-bf18-dd5ec668e2dd.png)
 
 
 ### 2) 녹화영상 화면
