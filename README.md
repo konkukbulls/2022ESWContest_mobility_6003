@@ -52,7 +52,8 @@
 
 ## 3. 작품 사용방법
 ### 1) 홈 화면
-![KakaoTalk_20221011_220812268](https://user-images.githubusercontent.com/110047222/195100579-ad834200-08eb-42ac-a07b-1a89faaaefe3.png)
+![KakaoTalk_20221012_002003810](https://user-images.githubusercontent.com/110047222/195132575-61a2138c-b390-49a5-8442-2e3e20f660ce.png)
+
 
 ### 2) 녹화영상 화면
 ![KakaoTalk_20221011_220812268_01](https://user-images.githubusercontent.com/110047222/195100649-3bd5a63f-ab1e-4b1d-b700-9f65749a5908.png)
