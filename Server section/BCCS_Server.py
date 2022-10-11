@@ -92,7 +92,7 @@ def main():
     fourcc = cv2.VideoWriter_fourcc('m', 'p', '4', 'v')    
 
     config = {
-    "apiKey": "AIzaSyAz3jpOUmoyFn4eXcZGlNDkFDM",
+    "apiKey": "AIzaSyAz3jpOUmoyFncZGlNDkFDM",
     "authDomain": "konkukbulls-2dab.firebaseapp.com",
     "databaseURL": "",
     "projectId": "konkukbulls-27ab",
