@@ -64,7 +64,7 @@
 ![KakaoTalk_20221007_155658144](https://user-images.githubusercontent.com/110047222/195049941-39a3c943-562a-4fa2-8c38-9a7a1f141105.png)
 
 
-## 5. Softdware 구성
+## 5. Software 구성
 
 
 <br>
