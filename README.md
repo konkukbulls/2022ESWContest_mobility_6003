@@ -46,6 +46,7 @@
 ### 1) 주행상황
 ![쥬쥬행](https://user-images.githubusercontent.com/110047222/195046425-5ad06c1a-d991-4155-880a-b4fab2f059b6.png)
 
+
 ### 2) 주차상황
 
 
@@ -65,6 +66,34 @@
 
 
 ## 5. Software 구성
+### Software 전체 구조
+
+![zzzzzzzzzzzzzz](https://user-images.githubusercontent.com/110047222/195095368-50325eb9-fc91-483f-bec6-634f8e6a2cbd.png)
+
+### 1) 센서 영역 동작 원리
+
+![aaaaaaaaaaaaaaaaaaaaa](https://user-images.githubusercontent.com/110047222/195096035-671a8b18-e8aa-4d5a-9a58-a80d62a96f5a.png)
+
+
+###  2) 주차 시 위험상황 판단 및 데이터 송신 과정
+
+![주차상황ㅁㅁㅁㅁㅁㅁㅁ](https://user-images.githubusercontent.com/110047222/195095851-19360cd5-83a9-4930-801b-8f3cdc065963.png)
+
+
+### 3) 주행 시 위험상황 판단 및 데이터 송신 과정
+
+![주줒주줗해ㅐㅎ해ㅐ해행](https://user-images.githubusercontent.com/110047222/195095881-333ec8d3-f8b6-423b-88ef-7d61e30f6da3.png)
+
+
+### 4) 서버 영역 동작 원리
+
+![서버 새로운거](https://user-images.githubusercontent.com/110047222/195096166-7ea9efd4-72f6-405c-8250-6826cd781831.png)
+
+
+### 5) 데이터베이스 구조
+
+![데이터 베이스 플로차트](https://user-images.githubusercontent.com/110047222/195096252-d23bead9-c158-447c-94e6-6ae9401f7a77.png)
+
 
 
 <br>
