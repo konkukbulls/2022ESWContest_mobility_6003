@@ -50,8 +50,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCN6A5d_g2a-R08RHDC-KD8n-itejU4m9c',
-    appId: '1:203312333339:android:42783b40147c4e456b2ebe',
+    apiKey: 'AIzSA5d_g2a-R0C-KD8n-itejU4m9c',
+    appId: '1:203312333339:android:42744e456b2ebe',
     messagingSenderId: '203312333339',
     projectId: 'konkukbulls-2d7ab',
     databaseURL: 'https://konkukbulls-2d7ab-default-rtdb.firebaseio.com',
@@ -59,13 +59,13 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCLzikuZ_1UESJqocwgWxcQP61_Du38wiQ',
-    appId: '1:203312333339:ios:f86fe6a5a871ecc96b2ebe',
+    apiKey: 'AIzaSyCLzikuZ_1UEcwgWxcQP61_Du38wiQ',
+    appId: '1:203312333339:ios:f86871ecc96b2ebe',
     messagingSenderId: '203312333339',
     projectId: 'konkukbulls-2d7ab',
     databaseURL: 'https://konkukbulls-2d7ab-default-rtdb.firebaseio.com',
     storageBucket: 'konkukbulls-2d7ab.appspot.com',
-    iosClientId: '203312333339-qud3ijfuh99thk6v9uj6hm10qpqlevui.apps.googleusercontent.com',
+    iosClientId: '2033123339-qud3ijfuh99thk6v9uj6h0qpqlevui.apps.googleusercontent.com',
     iosBundleId: 'com.my.bccs',
   );
 }
