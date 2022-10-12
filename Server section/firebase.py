@@ -2,7 +2,7 @@
 
 def config():
     return {
-    "apiKey": "AIzaSyAz3jpOUmXcZGlNDkFDM",
+    "apiKey": "AIzaSyAz3jpOUNDkFDM",
     "authDomain": "konkukbulls-2ab.firebaseapp.com",
     "databaseURL": "",
     "projectId": "konkukbulls-2d7ab",
