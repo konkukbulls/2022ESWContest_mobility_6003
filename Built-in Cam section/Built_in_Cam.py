@@ -128,6 +128,7 @@ def video_stream():
     global x
     global list
     global list2
+
       
     if not vid.isOpened():
         print("Could not open webcam")
