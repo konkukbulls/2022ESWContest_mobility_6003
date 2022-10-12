@@ -173,7 +173,7 @@ def video_stream():
             drive = 1
 
         if impact < 1000:
-            plussecond = 30
+            plussecond = 70
 
         if warnon == 1 and drive == 0:
             xcnt += 1
