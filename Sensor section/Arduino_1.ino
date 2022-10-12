@@ -17,8 +17,8 @@ void setup() {
 }
 
 void loop() {
-   if (TFmini.measure()) {                  // 거리를 측정합니다. 성공하면 을 반환하여 if문이 작동합니다.
-    distance = TFmini.getDistance();       // 거리값을 cm단위로 불러옵니다.
+   if (TFmini.measure()) {                
+    distance = TFmini.getDistance();       
     //Serial.println("거리");
     Serial.println(distance);
     
