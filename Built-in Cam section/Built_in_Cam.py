@@ -119,9 +119,9 @@ def video_stream():
     vid = cv2.VideoCapture(0)
     cnt = 0
     warnon = 0
-    plussecond = 0
     xcnt = 0
     drive = 0
+    plussecond = 0
 
     font = ImageFont.truetype('/home/pi/Documents/SCDream6.otf', 20) 
 
@@ -155,6 +155,7 @@ def video_stream():
         fire = int(list2[1])
         impact = int(list2[3])
         dist = int(list2[0])
+        
         if fire<55: #화재 감지 시 위험상황
             list[4] = "1"
         
@@ -220,7 +221,7 @@ def video_stream():
             now = datetime.datetime.now()
             nowdate = now.strftime('%M_%S')
 
-        if xcnt == 60 + plussecond:            
+        if xcnt == (60 + plussecond):            
             warnon = 0
             xcnt = 0
             plussecond = 0
