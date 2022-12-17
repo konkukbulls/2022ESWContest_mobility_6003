@@ -73,8 +73,8 @@ void loop()
 
 int brakingdistance(){//제동거리안에 차량이 있는지 출력해주는 함수-거리안에있을경우 1 없을경우 0
   
-  if (TFmini.measure()) {                  // 거리를 측정합니다. 성공하면 을 반환하여 if문이 작동합니다.
-    distance = TFmini.getDistance();       // 거리값을 cm단위로 불러옵니다.
+  if (TFmini.measure()) {                  
+    distance = TFmini.getDistance();       
   int vvvv = gps.f_speed_kmph();
   int mdistance = (0.005*(vvvv*vvvv)+0.2*(vvvv)/100);
   

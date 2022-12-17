@@ -74,12 +74,8 @@ class Socket():
         frame = pickle.loads(data_byte)
         data_byte = self.recv_data()
         gps_str = data_byte.decode()
-
-        #----------------------------------------shock추가
         data_byte = self.recv_data()
         sock_str = data_byte.decode()
-
-        #-------------------------------
         end_flag = self.recv_data()
         end_data = end_flag.decode()
         return (frame, gps_str, sock_str,end_data == "data_finish")
@@ -92,7 +88,7 @@ def main():
     fourcc = cv2.VideoWriter_fourcc('m', 'p', '4', 'v')    
 
     config = {
-    "apiKey": "AIzaSyAz3jpOUmoyFncZGlNDkFDM",
+    "apiKey": "AIzaSyAz3jpOUmGlNDkFDM",
     "authDomain": "konkukbulls-2dab.firebaseapp.com",
     "databaseURL": "",
     "projectId": "konkukbulls-27ab",
